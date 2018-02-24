@@ -17,6 +17,8 @@ public class JavaApplication4 {
         else{
             System.out.println("nothng");
         }
+        
+        System.out.println("Good");
     }
     
 }
