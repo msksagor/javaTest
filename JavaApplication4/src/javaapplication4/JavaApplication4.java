@@ -8,7 +8,11 @@ public class JavaApplication4 {
         for (int i = 0; i < 10; i++) {
             System.out.println("Your are in - "+i);
         }
-            
+        
+        
+        if(true){
+            System.out.println("Runnnning");
+        }
     }
     
 }
