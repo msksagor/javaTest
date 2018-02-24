@@ -19,6 +19,16 @@ public class JavaApplication4 {
         }
         
         System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
+        System.out.println("Good");
     }
     
 }
