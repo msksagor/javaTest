@@ -13,6 +13,10 @@ public class JavaApplication4 {
         if(true){
             System.out.println("Runnnning");
         }
+        
+        else{
+            System.out.println("nothng");
+        }
     }
     
 }
